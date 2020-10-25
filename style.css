@@ -1,0 +1,38 @@
+#timer{
+    text-align: right;
+    float: right;
+}
+
+#quiz{
+    margin-top: 10%;
+}
+
+#button1{
+    margin: 5px;
+    float: left;
+}
+
+#button2{
+    margin: 5px;
+    float: left;
+}
+
+#button3{
+    margin: 5px;
+    float: left;
+}
+
+#button4{
+    margin: 5px;
+    float: left;
+}
+
+#quest{
+    font-size: large;
+    margin: 20px;
+    font-weight: bold;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+}
+
+#start-screen{
+    margin-top: 10%;
+}
